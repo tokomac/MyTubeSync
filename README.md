@@ -1,7 +1,7 @@
 # MyTubeSync
 
 <p align="center">
-  <img src="docs/images/app-icon.png" alt="MyTubeSync Icon" width="120" height="120">
+  <img src="images/app-icon.png" alt="MyTubeSync Icon" width="120" height="120">
 </p>
 
 <p align="center">
