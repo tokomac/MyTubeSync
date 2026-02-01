@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyTubeSync</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background-color: #f5f5f7;
+            color: #1d1d1f;
+            line-height: 1.6;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .language-switcher {
+            text-align: right;
+            margin-bottom: 20px;
+        }
+        .language-switcher a {
+            color: #007AFF;
+            text-decoration: none;
+        }
+        .language-switcher a:hover {
+            text-decoration: underline;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .app-icon {
+            width: 100px;
+            height: 100px;
+            border-radius: 22px;
+            margin-bottom: 16px;
+        }
+        h1 {
+            font-size: 28px;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+        .tagline {
+            font-size: 16px;
+            color: #86868b;
+        }
+        .links {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        .link-card {
+            display: block;
+            background: white;
+            padding: 20px;
+            border-radius: 12px;
+            text-decoration: none;
+            color: #1d1d1f;
+            font-size: 18px;
+            font-weight: 500;
+            transition: transform 0.2s, box-shadow 0.2s;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        .link-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+        }
+        .link-card::after {
+            content: " →";
+            color: #007AFF;
+        }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            color: #86868b;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="language-switcher">
+            <a href="index.html">日本語</a> | English
+        </div>
+
+        <header>
+            <img src="images/app-icon.png" alt="MyTubeSync" class="app-icon" onerror="this.style.display='none'">
+            <h1>MyTubeSync</h1>
+            <p class="tagline">Save favorite YouTube videos with iCloud sync</p>
+        </header>
+
+        <div class="links">
+            <a href="privacy-policy-en.html" class="link-card">Privacy Policy</a>
+            <a href="terms-of-service-en.html" class="link-card">Terms of Service</a>
+            <a href="contact-en.html" class="link-card">Contact</a>
+        </div>
+
+        <footer>
+            <p>© 2025 MyTubeSync</p>
+        </footer>
+    </div>
+</body>
+</html>
