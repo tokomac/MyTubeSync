@@ -50,9 +50,7 @@ MyTubeSyncは、YouTubeの動画を検索・お気に入り登録し、複数の
 
 ## ダウンロード
 
-<a href="https://apps.apple.com/app/mytubesync/id0000000000">
-  <img src="docs/images/appstore-badge.svg" alt="Download on the App Store" height="50">
-</a>
+<a href="https://apps.apple.com/us/app/MyTubeSync/id6758654572?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/ja-jp?size=250x83&amp;releaseDate=1659312000&h=c2ccaa3ca47b1c88aba377b97e69d13b" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
 ## 法的情報
 
@@ -121,9 +119,7 @@ MyTubeSync is an iOS application that allows you to search and save your favorit
 
 ## Download
 
-<a href="https://apps.apple.com/app/mytubesync/id0000000000">
-  <img src="docs/images/appstore-badge.svg" alt="Download on the App Store" height="50">
-</a>
+<a href="https://apps.apple.com/us/app/MyTubeSync/id6758654572?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1659312000&h=c2ccaa3ca47b1c88aba377b97e69d13b" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
 ## Legal Information
 
